@@ -1,0 +1,11 @@
+
+North Atlantic Aquatic Connectivity Collaborative (NAACC)
+Data Center https://www.naacc.org/
+
+Data Export
+Nov 14, 2025 10:01:13 AM
+
+Dataset:
+  NAACC Tidal Connectivity Assessment CSV export 
+Full dataset (no search parameters used to filter results)
+
